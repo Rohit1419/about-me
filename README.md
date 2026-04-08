@@ -1,19 +1,17 @@
 # Rohit Gite — Full Stack Developer
 
-## Hero
-
 **Building thoughtful digital products that solve real problems.**
 
-I build calm, modern interfaces and reliable systems.
+I build sclable and reliable systems.
 Currently open to new opportunities.
 
 ---
 
 ## About
 
-I'm a full-stack developer who enjoys building products that solve real problems. Over the past 10 years, I've focused on AI applications, data platforms, and developer tools — work that sits at the intersection of complex systems and clean user experiences.
+I'm a full-stack developer who enjoys building products that solve real problems. Over the past 2 years, I've focused on AI applications, Backend Engineering, and developer tools.
 
-As a 3x founder, I built pATCHES into a music education platform reaching 2M+ visitors. I like shipping things that people actually use.
+As a founder Engineer, I built MewCP to connect mcp servers servers to AI agents without hurdal. I like shipping things that people actually use.
 
 ---
 
@@ -36,11 +34,11 @@ As a 3x founder, I built pATCHES into a music education platform reaching 2M+ vi
 
 **Languages:** JavaScript, TypeScript, Python, SQL
 
-**Frameworks:** React, Next.js, Node.js, Django, FastAPI
+**Frameworks:** React,Nestjs, Next.js, Node.js, FastAPI
 
-**Data:** PostgreSQL, TimescaleDB, DynamoDB
+**Data:** PostgreSQL, MongoDB, Redis, VectoerDB
 
-**Tools:** AWS (EC2, RDS, S3), GCP, GitHub Actions, Jest
+**Tools:** AWS (EC2, RDS, S3), GCP, GitHub Actions, Docker
 
 ---
 
