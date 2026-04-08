@@ -425,13 +425,15 @@ export default function Home() {
             className="animate-fade-up flex items-center gap-8 mb-6"
             style={{ animationDelay: "0ms" }}
           >
-            <Image
-              src="/headshot.jpg"
-              alt="Daniel Hilse"
-              width={48}
-              height={48}
-              className="rounded-full object-cover"
-            />
+            <div className="w-12 h-12 rounded-full overflow-hidden flex-shrink-0">
+              <Image
+                src="https://res.cloudinary.com/da3kyd9r4/image/upload/f_auto,q_auto/rohitgite1419.jpg"
+                alt="Rohit Gite"
+                width={48}
+                height={48}
+                className="w-full h-full object-cover  "
+              />
+            </div>
             <div className="flex flex-wrap items-center gap-x-4 gap-y-1 text-xs text-muted">
               {/* <span className="uppercase tracking-widest">Full-stack Developer</span> */}
               {/* <span className="text-border hidden sm:inline">·</span> */}
