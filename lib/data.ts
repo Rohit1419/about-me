@@ -7,66 +7,54 @@ export interface Experience {
 
 export const experience: Experience[] = [
   {
-    company: "Archipelago",
-    role: "Lead Engineer",
-    period: "2024 — Present",
-    description: "Technical strategy and development for a real-time financial analytics platform with cross-sectional market visualization",
-  },
-  {
-    company: "Act-On",
-    role: "Freelance Developer",
-    period: "2024 — 2025",
-    description: "AI-powered sales enablement tools and content workflow automation for B2B marketing platform",
+    company: "MewCP",
+    role: "Founding Engineer",
+    period: "2026 Jan — Present",
+    description:
+      "Building a no-code Agentic workflow automation platform for businesses of all sizes. Actively leading the development and infrastructure evolution of the MewCP ecosystem.",
   },
   {
     company: "Freelance",
     role: "Full-Stack Developer",
-    period: "2023 — 2024",
-    description: "Data-intensive web applications for startups and small businesses, focusing on real estate and nonprofit sectors",
+    period: "2025 Nov — 2025 Dec",
+    description:
+      "Shipped an SEO-optimized landing page with Sanity CMS & Cloudinary CDN for content and media management, featuring web analytics and Gmail service integration.",
   },
   {
-    company: "Veteran's United",
-    role: "SEO / Python",
+    company: "SmowCode",
+    role: "Software Developer Intern",
+    period: "2025 Jan — 2025 July",
+    description:
+      "Built a modular C-based networking library providing Wi-Fi and HTTP abstractions over a constrained runtime, with a custom ring buffer for reliable streaming and flow control.",
+  },
+  {
+    company: "Precious Models",
+    role: "Shopify Store Developer",
     period: "2022",
-    description: "Built search optimization tooling and Python automation for internal content operations",
-  },
-  {
-    company: "Marpipe",
-    role: "Founding Engineer",
-    period: "2019 — 2020",
-    description: "Developed multivariate ad testing platform from early prototype through enterprise client acquisition",
-  },
-  {
-    company: "Ableton, AG",
-    role: "Learning Resources",
-    period: "2018",
-    description: "Educational content and documentation for music production software",
-  },
-  {
-    company: "pATCHES",
-    role: "Founder / Developer",
-    period: "2016 — Present",
-    description: "Built and operate music education platform with JavaScript plugin ecosystem, reaching 2M+ visitors and $200k+ in sales",
-  },
-  {
-    company: "Trulaske College of Business",
-    role: "MBA Program",
-    period: "2016 — 2017",
-    description: "University of Missouri",
+    description:
+      "Designed and implemented a custom Shopify jewelry store optimized for SEO, user experience, and conversion rates. Managed end-to-end operations, including product inventory, order processing, and secure payment integrations.",
   },
 ];
 
 export const skills = {
-  languages: ["JavaScript", "TypeScript", "Python", "SQL"],
-  frameworks: ["React", "Next.js", "Node.js", "Django", "FastAPI"],
-  data: ["PostgreSQL", "TimescaleDB", "DynamoDB"],
-  tools: ["AWS (EC2, RDS, S3)", "GCP", "GitHub Actions", "Jest"],
+  languages: ["Python", "TypeScript", "SQL"],
+  frameworks: [
+    "NestJS",
+    "Next.js",
+    "Node.js",
+    "FastAPI",
+    "React",
+    "Langchain",
+    "FastMCP",
+  ],
+  data: ["PostgreSQL", "MongoDB", "Redis", "Vector Databases[Qdrant]"],
+  tools: ["AWS (EC2, RDS, S3)", "GitHub Actions", "Docker", "Kubernetes"],
 };
 
 export const status = {
-  current: "Lead Engineer at Archipelago",
-  location: "Boulder, CO",
-  timezone: "MST (UTC-7)",
+  current: "Founding Engineer at MewCP",
+  location: "India, Mumbai",
+  timezone: "IST (UTC-5:30)",
 };
 
 export const about = `I've spent a decade building product-focused software in early-stage environments where requirements emerge through iteration and constraints are real. My work spans frontend, backend, and data infrastructure, with recent focus on AI-assisted workflows and analytics platforms.
