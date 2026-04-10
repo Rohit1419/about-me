@@ -641,7 +641,7 @@ export default function Home() {
             <div>
               <h2 className="text-lg font-medium mb-2">Let's work together</h2>
               <p className="text-sm text-muted mb-6">
-                Open to full-time roles and select freelance projects.
+                Open to full-time roles and freelance projects.
               </p>
               <div className="flex flex-wrap gap-8">
                 <a
