@@ -462,13 +462,14 @@ export default function Home() {
             </span>{" "}
             and built to last.
           </h1>
-          <p
+          {/* subheading */}
+          {/* <p
             className="text-sm text-muted max-w-xl leading-relaxed animate-fade-up"
             style={{ animationDelay: "200ms" }}
           >
             Web apps and data systems for startups and small teams. 10 years
             building production software with React and Python.
-          </p>
+          </p> */}
           <div
             className="flex gap-4 mt-8 animate-fade-up"
             style={{ animationDelay: "300ms" }}

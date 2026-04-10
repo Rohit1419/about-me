@@ -57,6 +57,10 @@ export const status = {
   timezone: "IST (UTC-5:30)",
 };
 
-export const about = `I've spent a decade building product-focused software in early-stage environments where requirements emerge through iteration and constraints are real. My work spans frontend, backend, and data infrastructure, with recent focus on AI-assisted workflows and analytics platforms.
+export const about = `I’m a developer,bloger, chef, and fitness frek and love to explore Physics, History, Sociaty & sometimes Biology.
 
-I'm also a 3× founder. Building and operating pATCHES taught me the full product lifecycle—from early user testing through scaling to 2M+ visitors, balancing new features against operational stability.`;
+I work across backend systems, databases, network layers, and AI-Systems, Keeping mindset of building software that solves real business problems. I’ve helped businesses transition and scale from offline to digital by building practical, production-ready systems.
+
+Currently, I’m building MewCP with the goal of connecting applications seamlessly—so users don’t have to think about integrations at all.
+
+---- Never Give Up ----`;
