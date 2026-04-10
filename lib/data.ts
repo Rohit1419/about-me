@@ -57,10 +57,10 @@ export const status = {
   timezone: "IST (UTC-5:30)",
 };
 
-export const about = `I’m a developer,bloger, chef, and fitness frek and love to explore Physics, History, Sociaty & sometimes Biology.
+export const about = `I’m a developer, blogger, chef, and fitness enthusiast who enjoys exploring physics, history, society, and sometimes biology.
 
-I work across backend systems, databases, network layers, and AI-Systems, Keeping mindset of building software that solves real business problems. I’ve helped businesses transition and scale from offline to digital by building practical, production-ready systems.
+I work across backend systems, databases, network layers, and AI systems, with a focus on building software that solves real business problems. I’ve helped businesses transition and scale from offline to digital by creating practical, production-ready systems.
 
-Currently, I’m building MewCP with the goal of connecting applications seamlessly—so users don’t have to think about integrations at all.
+Currently, I’m building MewCP with the goal of connecting applications seamlessly—so users don’t have to think about integrations at all..
 
 ---- Never Give Up ----`;

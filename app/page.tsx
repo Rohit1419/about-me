@@ -703,12 +703,12 @@ export default function Home() {
               >
                 LinkedIn
               </a>
-              <a
+              {/* <a
                 href={profile.links.resume}
                 className="text-xs text-muted hover:text-foreground transition-colors duration-300"
               >
                 Resume
-              </a>
+              </a> */}
             </div>
           </div>
         </div>
