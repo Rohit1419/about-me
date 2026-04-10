@@ -30,7 +30,7 @@ export const experience: Experience[] = [
   {
     company: "Precious Models",
     role: "Shopify Store Developer",
-    period: "2022",
+    period: "2024 June — 2024 Sept",
     description:
       "Designed and implemented a custom Shopify jewelry store optimized for SEO, user experience, and conversion rates. Managed end-to-end operations, including product inventory, order processing, and secure payment integrations.",
   },
@@ -57,7 +57,7 @@ export const status = {
   timezone: "IST (UTC-5:30)",
 };
 
-export const about = `I’m a developer, blogger, chef, and fitness enthusiast who enjoys exploring physics, history, society, and sometimes biology.
+export const about = `I’m a developer, blogger, chef, and fitness enthusiast who enjoys exploring physics, history, social sciences, and sometimes biology.
 
 I work across backend systems, databases, network layers, and AI systems, with a focus on building software that solves real business problems. I’ve helped businesses transition and scale from offline to digital by creating practical, production-ready systems.
 
