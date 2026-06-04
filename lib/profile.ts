@@ -10,8 +10,8 @@ export const profile = {
   links: {
     github: "https://github.com/Rohit1419",
     linkedin: "https://www.linkedin.com/in/rohit-g-955391250",
-    resume:
-      "https://d1lbnboj0lfh6w.cloudfront.net/portfolio/Resume+-+Rohit.pdf",
+    x: "https://x.com/RohitGite19",
+    resume: "/resume",
     calendly: "https://calendly.com/rohitgite03/30min",
   },
 
