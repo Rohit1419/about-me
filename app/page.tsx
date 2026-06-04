@@ -686,30 +686,51 @@ export default function Home() {
                 </a>
               </div>
             </div>
-            <div className="flex gap-6">
-              <a
-                href={profile.links.github}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs text-muted hover:text-foreground transition-colors duration-300"
-              >
-                GitHub
-              </a>
-              <a
-                href={profile.links.linkedin}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs text-muted hover:text-foreground transition-colors duration-300"
-              >
-                LinkedIn
-              </a>
+            <div className="flex flex-col items-end gap-4">
+              <div className="flex gap-6">
+                <a
+                  href={profile.links.github}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-muted hover:text-foreground transition-colors duration-300"
+                >
+                  GitHub
+                </a>
+                <a
+                  href={profile.links.linkedin}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-muted hover:text-foreground transition-colors duration-300"
+                >
+                  LinkedIn
+                </a>
+                <a
+                  href={profile.links.x}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-xs text-muted hover:text-foreground transition-colors duration-300"
+                >
+                  X
+                </a>
+              </div>
               <a
                 href={profile.links.resume}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-xs text-muted hover:text-foreground transition-colors duration-300"
+                className="inline-flex items-center gap-2 text-xs font-medium bg-foreground text-background px-4 py-2 rounded-full hover:bg-accent transition-colors duration-300"
               >
-                Resume
+                <svg
+                  className="w-3 h-3"
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                  strokeWidth={2}
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5M16.5 12L12 16.5m0 0L7.5 12m4.5 4.5V3"
+                  />
+                </svg>
+                View Resume
               </a>
             </div>
           </div>

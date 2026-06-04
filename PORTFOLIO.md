@@ -97,4 +97,5 @@ Open to full-time roles and select freelance projects.
 - Phone: +91 7823846641
 - GitHub: https://github.com/Rohit1419
 - LinkedIn: https://www.linkedin.com/in/rohit-gite
+- X: https://x.com/RohitGite19
 - Website: https://rohitgit.dev
