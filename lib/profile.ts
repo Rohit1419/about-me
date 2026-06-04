@@ -11,7 +11,7 @@ export const profile = {
     github: "https://github.com/Rohit1419",
     linkedin: "https://www.linkedin.com/in/rohit-g-955391250",
     resume:
-      "https://d1lbnboj0lfh6w.cloudfront.net/portfolio/Resume+-+Rohit.pdf",
+      "https://drive.google.com/file/d/1PSwlRnqNlBlpL4M4m9-7fQjBRi5sxXB7/view?usp=sharing",
     calendly: "https://calendly.com/rohitgite03/30min",
   },
 
